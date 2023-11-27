@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishnu Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnuwd" alt="vishnuwd" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnuwd" alt="vishnuwd" /></a> </p>-->
 
-- 👨‍💻 All of my projects are available at [https://portfolio-xi-two-16.vercel.app/](https://portfolio-xi-two-16.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://portfolio-xi-two-16.vercel.app/)
 
 - 📫 How to reach me **vishnuyadavhome@gmail.com**
 
