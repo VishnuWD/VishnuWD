@@ -1,3 +1,5 @@
+<h2>(Outdated)</h2>
+
 - 🔭 I’m currently working on [PixelCode](https://pixelcode.in)
 - 🌱 I’m currently learning **MongoDB**
 - 💬 Ask me about **CSS**
